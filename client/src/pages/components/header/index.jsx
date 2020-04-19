@@ -3,8 +3,8 @@ import React from 'react'
 
 export default function Header(props) {
 
-return ( 
-<div> BLA</div>
-)
+	return (
+		<div> BLA</div>
+	)
 }
 Header.propTypes = {}
